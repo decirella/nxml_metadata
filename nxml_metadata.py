@@ -6,7 +6,7 @@
 #  
 #  David Cirella, decirella@gmail.com
 #  2016-11-16
-#  Last updated: 2017-01-21
+#  Last updated: 2017-04-02
 #
 #  Usage: 
 #   $ python nxml_metdata.py doc_collection_path_name
