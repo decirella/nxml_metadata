@@ -24,6 +24,6 @@ curl 'http://localhost:8983/solr/gettingstarted/update?commit=true' --data-binar
 ### Usage
 This was developed and used for working with the NLM Pubmed open access collections.
 ```
-$ python nxml_metadata.py path/to/dir/of/test_docs/
+$ python nxml_metadata.py path/to/dir/of_nxml_docs/
 ```
 Output directory is created, json output file is named with current date_parsed_bib.json
